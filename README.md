@@ -1,6 +1,8 @@
 # hw4
 PC homework 4
 
+—————————————————————————————————————————
+
 Part 1: Practice with Loops
 
 1.How many lines are drawn each frame? In other words, how often does the for loop run?
