@@ -14,6 +14,8 @@ Part 1: Practice with Loops
 The fist 10 is the lateral coordinate of the starting point of the first line. The second 10 determines the distance between the edge and the lateral coodinate of the last line(when x <= width-10, the distance equals 10; when x < width-10, the distance equals 20). The third 10 is the spacing between lines.
 
 
+—————————————————————————————————————————
+
 
 Part 2: Practice with Arrays
 
